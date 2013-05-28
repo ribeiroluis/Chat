@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatCliente", "Chat\ChatCliente.csproj", "{65EB094F-652D-4A8E-96AE-0F76710E681A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServidor", "ChatServidor\ChatServidor.csproj", "{BF8B747A-3E93-4740-8965-3C479B9755B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EB094F-652D-4A8E-96AE-0F76710E681A}.Debug|x86.ActiveCfg = Debug|x86
+		{65EB094F-652D-4A8E-96AE-0F76710E681A}.Debug|x86.Build.0 = Debug|x86
+		{65EB094F-652D-4A8E-96AE-0F76710E681A}.Release|x86.ActiveCfg = Release|x86
+		{65EB094F-652D-4A8E-96AE-0F76710E681A}.Release|x86.Build.0 = Release|x86
+		{BF8B747A-3E93-4740-8965-3C479B9755B2}.Debug|x86.ActiveCfg = Debug|x86
+		{BF8B747A-3E93-4740-8965-3C479B9755B2}.Debug|x86.Build.0 = Debug|x86
+		{BF8B747A-3E93-4740-8965-3C479B9755B2}.Release|x86.ActiveCfg = Release|x86
+		{BF8B747A-3E93-4740-8965-3C479B9755B2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
