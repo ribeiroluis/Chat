@@ -178,7 +178,7 @@ namespace ChatServidor
                 IPAddress ipaLocal = enderecoIP;
 
                 // Cria um objeto TCP listener usando o IP do servidor e porta definidas
-                tlsCliente = new TcpListener(ipaLocal, 2502);
+                tlsCliente = new TcpListener(ipaLocal, 58196);
 
                 // Inicia o TCP listener e escuta as conexões
                 tlsCliente.Start();
